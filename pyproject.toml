@@ -13,6 +13,7 @@ dependencies = [
     "evaluate>=0.4.6",
     "faiss-cpu>=1.13.2",
     "fastembed>=0.8.0",
+    "grandalf>=0.8",
     "langchain>=1.2.15",
     "langchain-community>=0.4.1",
     "langchain-groq>=1.1.2",
