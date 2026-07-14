@@ -238,3 +238,5 @@ __marimo__/
 datasets
 langchain_module_files
 test_trainer
+tryout.ipynb
+*.docx
